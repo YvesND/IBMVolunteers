@@ -2168,6 +2168,21 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-rvgwNzjqRT {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #232323, #232323);
+}
+@media (min-width: 992px) {
+  .cid-rvgwNzjqRT .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rvgwNzjqRT .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qU1hic2w7a {
   padding-top: 45px;
   padding-bottom: 30px;
